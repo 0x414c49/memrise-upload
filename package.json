@@ -1,0 +1,21 @@
+{
+  "name": "memrise-upload",
+  "version": "1.0.0",
+  "main": "index.spec.js",
+  "author": {
+    "name": "Ali Bahraminezhad",
+    "email": "ali.bahraminezhad@outlook.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "clear && jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "jest-environment-node": "^25.1.0",
+    "jest-puppeteer": "^4.4.0"
+  }
+}

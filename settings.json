@@ -1,0 +1,11 @@
+{
+    "username": "",
+    "password": "",
+    "memriseBaseUrl": "https://www.memrise.com",
+    "courseName": "Example",
+    "headless": true,
+    "columnMaps": {
+        "column1": "dutch",
+        "column2": "english"
+    }
+}
