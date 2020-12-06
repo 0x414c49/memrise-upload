@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "start": "clear && jest --detectOpenHandles"
+    "start": "cls && jest --detectOpenHandles"
   },
   "dependencies": {
     "puppeteer": "^2.1.1"
