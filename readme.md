@@ -2,6 +2,8 @@
 
 Jest + Puppeteer => Utility script for uploading flash cards (with audio) files to Memrise.com.
 
+# This is an old repo, it won't get updated and not sure if it still works
+
 ---
 
 ## Installation:
